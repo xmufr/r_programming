@@ -1,4 +1,4 @@
-## creat a special ''vector'' consits of a list
+## create a special ''vector'' consits of a list
 ## 1. check whether input is valid
 ## 2. set the value of the matrix
 ## 3. get the value of the matrix
